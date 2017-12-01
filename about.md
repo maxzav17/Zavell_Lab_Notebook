@@ -9,7 +9,7 @@ I am an undergraduate marine biology major at The University of Rhode Island and
 
 
 ### More Information
-For more information about the research in the Putnam Laboratory please see: www.putnamlab.com
+
 
 ### Contact me
 If you have any questions about my research interests please contact me at, 
