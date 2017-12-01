@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am an integrative marine eco-physiologist. I strive to understand how the immediate abiotic environment and biotic interactions drive organism phenotype,  ecological patterning, and evolutionary processess through the interaction of symbiosis, genetics, and epigenetics. 
+I am an undergraduate marine biology major at The University of Rhode Island and a member of the Putnam Laboratory. My research interests involve coral biomineralization and calcification, ocean acidification, and coral physiology. I am specifically, interested in the affects of anthropogenic climate change on coral biomineralization and their progeny. 
 
-I am dedicated to open, rigorous, and reproducible experiments and analyses.
+
 
 ### More Information
-
-wwww.hollieputnam.com
+For more information about the research in the Putnam Laboratory please see: http://putnamlab.com/
 
 ### Contact me
-
-[hollieputnam@gmail.com](mailto:hollieputnam@gmail.com)
+If you have any questions about my research interests please contact me at, 
+[maxzavell0@gmail.com](mailto:maxzavell0@gmail.com)
