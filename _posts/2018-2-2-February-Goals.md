@@ -6,7 +6,7 @@ categories: Goals
 tags: [Undergraduate Goals, HIMB]
 ---
 
-# Goals for December of 2017
+# Goals for February of 2018
 
 * Complete overlaid graphs for HOBO loggers
 * Complete overlaid graphs for Tidbit loggers
