@@ -1,16 +1,18 @@
 ---
 layout: post
 title: HIMB Descriptive Statistics (HOBO Logger)
-date: '2017-12-2'
-categories: HIMB Reciprocal Transplant 
+date: '2017-2-12'
+categories: HIMB Reciprocal Transplant
 tags: [HIMB]
 ---
 
 #HOBO Logger Descriptive Statistics: 2/17/2016 - 4/27/2016 & 6/14/2016 - 6/19/2016
 
 * Descriptive statistics for HOBO loggers at sites 1-4 and the NOAA baseline.
-* Descriptive statistics and quality control of data was completed in R. 
+* Descriptive statistics and quality control of data was completed in R.
 * Data is from 2/17/2016 - 4/27/2016 & 6/14/2016 - 6/19/2016, because this is the only complete time frame for each site.
+
+
 | Site          | Q1    | Q2    | Q3    | Mean  | Min   | Max   | STDEV |
 |---------------|-------|-------|-------|-------|-------|-------|-------|
 | NOAA Baseline | 24.10 | 24.90 | 25.50 | 24.83 | 22.50 | 27.20 | 1.02  |
