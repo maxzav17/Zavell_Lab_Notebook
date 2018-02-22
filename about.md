@@ -24,16 +24,20 @@ If you have any questions about my research interests please contact me at:
   Kingston RI, 02881
 
 # **Education:**
+
 | Date | Degree              | Affiliation                                 |
-|------|---------------------|---------------------------------------------|
+|--|--|--|
 | 2016 | High School Diploma | Highland Park High School, Highland Park IL |
 | 2020 | B.S. Marine Biology | University of Rhode Island, Kingston RI     |
 
 # **Work Experience:**
+
 | Date        | Affiliation                                             | Description                                                                                                                                                                                 |
 |-------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Summer 2017 | Park District of Highland Park Natural Areas Department | Natural Areas Department Intern. Conducted research on the effects of residual chlorine in freshwater ravine environments. Conducted habitat restoration, conservation, and field studies.  |
+|   |   |   |
 # **Awards, Honors, and Fellowships:**
+
 ## *High School:*
 | Date          | Award                                    | Affiliation                | Description                                                                                                                                             |
 |---------------|------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,6 +51,7 @@ If you have any questions about my research interests please contact me at:
 | 2016 - 2020  | URI  Centennial Scholarship                  | The University of Rhode Island           | Merit based scholarship                                                           |
 | Spring 2017  | The Lawrence Hopfenberg Memorial Scholarship | Hillel at The University of Rhode Island | Awarded to the Freshman who has made the greatest impact on Jewish life on campus |
 # **Leadership Roles and Extracurricular Activities:**
+
 ## *High School:*
 | Date         | Organization            | Position               |
 |--------------|-------------------------|------------------------|
@@ -62,10 +67,12 @@ If you have any questions about my research interests please contact me at:
 | 2016 - Present | Hillel                 | Culture Chair (2016 - 2017) Vice President (2017 -2018)` |
 | 2018 - Present | SCUBA Club             | Member                                                   |
 # **Research and Lab Experience:**
+
 | Date           | Affiliation     | Description                      |
 |----------------|-----------------|----------------------------------|
 | 2017 - Present | The Putnam Lab  | Undergraduate research assistant |
 # **Liscenses, Certifications, and Other Skills:**
+
 1. SDI Open Water SCUBA Certification (2017)
 2. Computer:
   1. MS Word, Excel
