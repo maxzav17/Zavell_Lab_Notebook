@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About and CV
+title: About 
 permalink: /about/
 ---
 
@@ -16,12 +16,12 @@ If you have any questions about my research interests please contact me at:
 [maxzavell0@gmail.com](mailto:maxzavell0@gmail.com)
 
 
-# <center> **Curriculum Vitae** </center>
+# <center> Curriculum Vitae </center>
 &nbsp;
-  #               _<center>   *Max D. Zavell* </center>_
-  ### <center> University of Rhode Island </center>
-  #### <center> 50 Lower College Rd, Unit 993 </center>
-  #### <center> Kingston RI, 02881 </center>
+                 _<center>   *Max D. Zavell* </center>_
+   <center> University of Rhode Island </center>
+   <center> 50 Lower College Rd, Unit 993 </center>
+   <center> Kingston RI, 02881 </center>
 
 &nbsp;
 &nbsp;
