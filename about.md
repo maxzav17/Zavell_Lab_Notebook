@@ -35,7 +35,12 @@ If you have any questions about my research interests please contact me at:
 
 &nbsp;
 &nbsp;
-&nbsp;
+
+# **Relevent Coursework:**
+## *Past*
+Topics in Marine Biology; Ecology; Communication; Climate Change and the Oceans; Marine Biology, Calculus 1, General Chemistry 1 & 2; Natural Resource Conservation; Genetics; Statistics
+## *Current*
+Animal Physiology; Invertebrate Zoology; Organic Chemistry 1; Living by the Oceans
 
 # **Work and Lab Experience:**
 
