@@ -69,11 +69,12 @@ If you have any questions about my research interests please contact me at:
 
 | Date | Award | Affiliation | Description |
 |------|-------|-------------|-------------|
-| 2018 - Present   | NOAA Ernest F. Hollings Scholarship  | National Oceanic and Atmospheric Administration  | Scholarship that provides academic assistance for 2 years and an internship at a NOAA facility during the summer.   |
-| 2016 - Present   | URI Centennial Scholarship   | The University of Rhode Island | Merit based scholarship |
-| Spring 2017   | The Lawrence Hopfenberg Memorial Scholarship | Hillel at The University of Rhode Island | Awarded to the Freshman who has made the greatest impact on Jewish life on campus |
-| 2016 - 2017   | Dean's List | The University of Rhode Island | Must maintain over a 3.30 GPA |
-| 2016 - 2017   | Honor's Program | The University of Rhode Island | Honor's program and must complete a year long research project to be presented at the annual Honors Symposium |
+| 2018 - Present  | NOAA Ernest F. Hollings Scholarship   | National Oceanic and Atmospheric Administration   | Scholarship that provides academic assistance for 2 years and an internship at a NOAA facility during the summer  |
+| 2016 - Present   | URI Centennial Scholarship   | The University of Rhode Island   | Merit based scholarship   |
+| Spring 2017  | The Lawrence Hopfenberg Memorial Scholarship  | Hillel at The University of Rhode Island  | Awarded to the Freshman who has made the greatest impact on Jewish life on campus  |
+| 2016 - 2017  | Dean's List | The University of Rhode Island | Must maintain over a 3.30 GPA  |
+| 2016 - 2017  | Honor's Program  | The University of Rhode Island | Honor's program and must comlete a year long research project to be presented at the annual Honors Symposium    |
+
 
 &nbsp;
 
@@ -81,10 +82,11 @@ If you have any questions about my research interests please contact me at:
 
 | Date  | Award | Affiliation | Description |
 |-------|-------|-------------|-------------|
-| December 2014 | Eagle Scout | Boy Scouts of America |The highest attainable rank of the Boy Scouts of America |
-| Spring, 2015 | Robert Barnard Character Counts Pillar    | Highland Park City Council |Recognizes and honors community members who uphold the pillar of character: Trustworthiness, Respect, Responsibility, Fairness, Caring, and Citizenship|
-| Spring 2015 | AP Scholar Award | The College Board |Recognizes students who score a three or higher on three or more AP Exams|
-| 2015 - 2016 | Highland Park High School Honors Society   |Highland Park High School   | Recognizes student's achievements in scholarship, leadership, and service   |
+| December 2014 | Eagle Scout | Boy Scouts of America | The highest attainable rank of the Boy Scouts of America |
+| Spring 2015   | Robert Barnard Character Counts Pillar  | Highland Park City Council | Recognizes and honors community members who uphold the pillars of character: Trustworthiness, Respect, Responsibility, Fairness, Caring, and Citizenship |
+| Spring 2015 | AP Scholar Award | The College Board | Recognizes students who score a three or higher on three or more AP exams |
+| 2015 - 2016 | Highland Park High School Honors Society | Highland Park High School | Recognizes student's achievements in scholarship, leadership, and service |
+
 &nbsp;
 # **Leadership Roles and Extracurricular Activities:**
 
@@ -123,10 +125,11 @@ If you have any questions about my research interests please contact me at:
 
 | Date | Type | Organization |Description|
 |------|------|--------------|-----------|
-| 2005 - Present | Natural Areas Department Volunteer | Park District of Highland Park | Learned field conservation and restoration technique and protocols. Techniques included: controlled burns, invasive species removals, plant and animal field studies, and specimen collection and preservation Techniques |
-| December 2014 | Spoker | Northshore School District 112 | Presented to all middle and elementry school teachers on the benefits of science and the local natural classroom located within the surrounding areas |
-| Summer 2015 | Food Pantry Volunteer | Moraine Township Food Pantry | Picked up food from groceries twice a week and delivered it to the local food pantry |
-| 2012 - 2015 | Raised money for charity | Magan David Adom (Israeli Red Cross) | Raised over $50,000 for the Israeli Red Cross |
+| 2005 - Present | Natural Areas Department Volunteer | Park District of Highland Park | Learned field conservation and restoration techniques and protocols. Techniques included: controlled burns, invasive species removal, plant and animal field studies, and specimen collection and preservation |
+| Summer 2015 | Food Pantry Volunteer | Moraine Township Food Pantry | Picked up food from groceries twicea week and delivered it to the local food pantry |
+| December 2014 | Speaker | Northshore School District 112 | Presented to all midlle and elementary school teachers on the benefits of science and the local natural classroom located within the surrounding area |
+| 2012 - 2015 | Raised money for chairty | Magan David Adom | Raised over $50,000 for the Israeli Red Cross |
+
 
 &nbsp;
 # **Liscenses, Certifications, and Other Skills:**
