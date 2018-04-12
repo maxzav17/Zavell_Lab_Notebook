@@ -130,10 +130,8 @@ If you have any questions about my research interests please contact me at:
 # **Liscenses, Certifications, and Other Skills:**
 
 1. SDI Open Water SCUBA Certification (2017)
-2. Computer:
-  1. MS Word, Excel
-3. Statistical Analysis
-  1. R (Basic)
+2. Computer
+3. R (Basic)
 5. Github
 6. GIS (Basic)
 7. Markdown
