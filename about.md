@@ -74,7 +74,7 @@ If you have any questions about my research interests please contact me at:
 | Spring 2017   | The Lawrence Hopfenberg Memorial Scholarship | Hillel at The University of Rhode Island | Awarded to the Freshman who has made the greatest impact on Jewish life on campus |
 | 2016 - 2017   | Dean's List | The University of Rhode Island | Must maintain over a 3.30 GPA |
 | 2016 - 2017   | Honor's Program | The University of Rhode Island | Honor's program and must complete a year long research project to be presented at the annual Honors Symposium |
-|   |   |   |   |
+
 &nbsp;
 
 ## *High School:*
@@ -114,8 +114,9 @@ If you have any questions about my research interests please contact me at:
 
 | Date | Type | Organization | Description |
 |------|------|--------------|-------------|
-| 2016 - 2017 | Beach Cleanups | Save The Bay | Participated in beach cleanups around Narragansett Bay |
-| October - 2017    | Public Outreach | The Putnam Lab and The Graduate School of Oceanography (URI) | Spoke at the GSO open house about lab activites and the local coral species in New England |
+|  2016 - 2017  | Beach Cleanups   | Save The Bay  | Participated in beach cleanups around Narragansett Bay  |
+| October - 2017  | Outreach | The Putnam Lab and The Graduate School of Oceanography (URI)   | Spoke at the GSO open house about lab activites and the local coral species in New England |
+
 
 &nbsp;
 ## *High School:*
@@ -126,6 +127,7 @@ If you have any questions about my research interests please contact me at:
 | December 2014 | Spoker | Northshore School District 112 | Presented to all middle and elementry school teachers on the benefits of science and the local natural classroom located within the surrounding areas |
 | Summer 2015 | Food Pantry Volunteer | Moraine Township Food Pantry | Picked up food from groceries twice a week and delivered it to the local food pantry |
 | 2012 - 2015 | Raised money for charity | Magan David Adom (Israeli Red Cross) | Raised over $50,000 for the Israeli Red Cross |
+
 &nbsp;
 # **Liscenses, Certifications, and Other Skills:**
 
