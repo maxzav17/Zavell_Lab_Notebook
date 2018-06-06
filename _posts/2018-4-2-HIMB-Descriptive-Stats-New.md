@@ -1,12 +1,8 @@
-
+---
 layout: post
----
 title: HIMB Revised Descriptive Statistics (HOBO Logger)
----
 date: '2018-4-2'
----
 categories: HIMB Reciprocal Transplant
----
 tags: [HIMB]
 ---
 
